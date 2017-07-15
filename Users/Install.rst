@@ -129,7 +129,7 @@ virtualenv with:
     (venv)$ pip3 install coala-bears
 
 Using coala With Docker
-=======================
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Use this installation method if you *just simply want to use coala*.
 
@@ -149,7 +149,7 @@ care about those! The general command to run coala is:
     disk. Check out the native installation if this is not for you.
 
 Windows
--------
++++++++
 
 If you use Windows, you can install docker easily using
 `Docker Toolbox <https://www.docker.com/products/docker-toolbox>`_.
@@ -187,6 +187,7 @@ options are documented in the
     read `Using pip behind a proxy on StackOverflow
     <http://stackoverflow.com/questions/14149422/using-pip-behind-a-proxy>`_
     for further clarification.
+
 
 Optional Dependencies
 ---------------------
@@ -316,7 +317,7 @@ You have to activate this virtualenv on every terminal session you want to use
 coala though (tip: add it to bashrc!).
 
 Generating Documentation
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
 
 coala documentation is
 `in a separate repository <https://github.com/coala/documentation>`__.
